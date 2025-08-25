@@ -76,7 +76,7 @@ The app will be available at:
 🌐 Deployment
 
 The project is deployed on Render and can be accessed here:
-👉 [Live Demo](https://fire-weather-index-6zze.onrender.com/predictdata)
+👉 (https://fire-weather-index-6zze.onrender.com/predictdata)
 
 It also includes AWS Elastic Beanstalk configuration files (.ebextensions/) for cloud deployment.
 
